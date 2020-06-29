@@ -9,4 +9,7 @@ public class DataRestController {
     public void main() {
         System.out.println("hello git!");
     }
+    public void main2() {
+        System.out.println("hello git2!");
+    }
 }
